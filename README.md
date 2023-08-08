@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saradonnelly97
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Back-End Development & APIs
+- 🌱 I’m currently learning REACT BAYBEEEEEE
 - 💞️ I’m looking to collaborate on anything I can get my hands on!
 - 📫 Reach me through my LinkedIn
 
